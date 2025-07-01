@@ -6,5 +6,7 @@ stash, forking, open-source, etc.
 
 <br/>
 
-link of my notes 
-👉 [git notion notes](https://www.notion.so/Git-and-GitHub-22031ed1130880e6ac33efbb0c3a4aa8?source=copy_link)
+  link of my notes <br/>
+  👉 [git notion notes](https://www.notion.so/Git-and-GitHub-22031ed1130880e6ac33efbb0c3a4aa8?source=copy_link)
+      
+</div>
